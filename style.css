@@ -1,20 +1,43 @@
 body {
-background: #196dff;
+
+background: #c0ffea;
 text-align: center;
+
 }
 #main {
 
 width: 1000px;
-height: 600px;
-background: #ffab19;
+height: 85px;
+background: #59c2c1;
 margin: 25px auto;
-border: solid 2px #ff3819;
+border: solid 2px #c8d3d4;
 
 }
+
+#main2 {
+width: 1000px;
+height: 500px;
+background: #59c2c1;
+margin: 95px auto;
+border: solid 2px #c8d3d4;
+}
+
 h1 {
+
 text-align: center;
 font-family: "Liberation Sans";
-font: 24pt;
-color: #ff3819;
+font: 32pt;
+color: #ffffff;
 
 }
+
+p {
+
+font-family: "Aerial";
+font-size: 12pt;
+text-align: center;
+text-indent: 48px;
+color: #ffffff;
+
+}
+
