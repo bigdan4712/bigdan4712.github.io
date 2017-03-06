@@ -9,34 +9,52 @@ text-align: center;
 width: 1000px;
 height: 85px;
 background: #59c2c1;
-margin: 25px auto;
+margin: 15px auto;
 border: solid 2px #c8d3d4;
 
+}
+
+.btn-group .button {
+
+background-color: #59C2C1;
+border: solid 2px #C8D3D4;
+color: #FFFFFF;
+padding: 10px 10px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+font-family: "Arial";
+width: 197px;
+
+}
+
+.button:hover {
+    box-shadow: 0 6px 8px 0 rgba(0,0,0,0.24),0 9px 25px 0 rgba(0,0,0,0.19);
 }
 
 #main2 {
 width: 1000px;
 height: 500px;
 background: #59c2c1;
-margin: 95px auto;
+margin: 25px auto;
 border: solid 2px #c8d3d4;
 }
 
 h1 {
 
 text-align: center;
-font-family: "Liberation Sans";
-font: 32pt;
+font-family: "Arial";
+font: 48pt;
 color: #ffffff;
 
 }
 
 p {
 
-font-family: "Aerial";
+font-family: "Arial";
 font-size: 12pt;
 text-align: center;
-text-indent: 48px;
 color: #ffffff;
 
 }
